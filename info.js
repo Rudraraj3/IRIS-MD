@@ -49,13 +49,13 @@ if (fs.existsSync('config.env')) {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     HANDLERS: process.env.HANDLERS || '.',
-    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
-    URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
+    INFO: process.env.INFO || '✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺;✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺;https://i.imgur.com/vpMZP20.jpeg',
+    URL: process.env.URL || 'https://chat.whatsapp.com/JCx4hln6yWcJXX9wcOBJQv',
+    SUDO: process.env.SUDO || '919883457657',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
-    STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
+    STICKER_DATA: process.env.STICKER_DATA || '️✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺',
     HAPP: process.env.HAPP || '', // IF NOT HEROKU THEN KEEP IT BLANK
     HKEY: process.env.HKEY || '', // IF NOT HEROKU THEN KEEP IT BLANK
     DATABASE_URL: DATABASE_URL,
